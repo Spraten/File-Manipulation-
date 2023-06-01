@@ -1,6 +1,6 @@
 # File-Manipulation-
 
-##Extract-Text-From-PNG
+# Extract-Text-From-PNG
 -> if in a .docx change file to .zip (just rename it) 
 -> copy out all the jpgs
 -> use "https://github.com/tesseract-ocr/tesseract#installing-tesseract"
